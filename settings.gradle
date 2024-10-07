@@ -1,0 +1,3 @@
+rootProject.name = 'demo-spring-gradle-modules-example'
+
+include 'core'
